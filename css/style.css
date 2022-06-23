@@ -379,6 +379,9 @@ button:hover {
 .nav__btn-media {
   display: none;
 }
+.nav__btn-media-svg{
+  width: 80%;
+}
 .nav-menu {
   display: none;
 }
